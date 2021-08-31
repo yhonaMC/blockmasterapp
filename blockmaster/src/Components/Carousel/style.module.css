@@ -1,0 +1,16 @@
+.carousel{
+    color: white;
+}
+
+.carousel button{
+    background: white;
+}
+
+button:hover{
+    background: #FED941 !important;
+    color: white !important ;
+    outline: none !important;
+}
+
+
+

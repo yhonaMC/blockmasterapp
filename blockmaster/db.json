@@ -1,0 +1,74 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "titulo": "Rapido y furioso",
+            "categoria": "Adrenalina",
+            "imagen": "https://www.mundopeliculas.tv/wp-content/uploads/2021/05/rapidos-y-furiosos-9.jpg",
+            "popularity": "5.0"
+        },
+        {
+            "id": 2,
+            "titulo": "Space Jam",
+            "categoria": "Fantasia",
+            "imagen": "https://www.tonica.la/__export/1617404863163/sites/debate/img/2021/04/02/space-jam-2-nuevo-poster.png_554688468.png",
+            "popularity": "4.3"
+        },
+        {
+            "id": 3,
+            "titulo": "Cruella",
+            "categoria": "Drama y comedia",
+            "imagen": "https://www.mundopeliculas.tv/wp-content/uploads/2021/05/rapidos-y-furiosos-9.jpg",
+            "popularity": "4.1"
+        },
+        {
+            "id": 4,
+            "titulo": "Black Widow",
+            "categoria": "Accion",
+            "imagen": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/8/1/0/9/19018-1-esl-CO/BLACKWIDOW_DOMESTIC_PAYOFF_LAS%20(1).jpg",
+            "popularity": "5.0"
+        },
+        {
+            "id": 5,
+            "titulo": "The Purge",
+            "categoria": "Terror",
+            "imagen": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-purge-temporada-2-poster-1568103429.jpeg",
+            "popularity": "4.8"
+        },
+        {
+            "id": 6,
+            "titulo": "Raya",
+            "categoria": "Comedia",
+            "imagen": "https://www.disneylapresspack.com/uploads/ckeditor/1612548658-raya_mx.png",
+            "popularity": "4.7"
+        },
+        {
+            "id": 7,
+            "titulo": "No Time To Die",
+            "categoria": "Accion",
+            "imagen": "https://pics.filmaffinity.com/Sin_tiempo_para_morir-525355918-large.jpg",
+            "popularity": "4.1"
+        },
+        {
+            "id": 8,
+            "titulo": "Spiderman Verse",
+            "categoria": "Accion",
+            "imagen": "https://sm.ign.com/ign_es/movie/s/spider-man/spider-man-3-tom-holland_cdgx.jpg",
+            "popularity": "5.0"
+        },
+        {
+            "id": 9,
+            "titulo": "Lucas",
+            "categoria": "Comedia",
+            "imagen": "https://es.web.img3.acsta.net/pictures/21/04/29/11/03/3538359.jpg",
+            "popularity": "5.0"
+        },
+        {
+            "id": 10,
+            "titulo": "Loki",
+            "categoria": "Comedia y Accion",
+            "imagen": "https://cines.com/files/2021/03/poster-loki.jpg",
+            "popularity": "5.0"
+        }
+    ]
+}
